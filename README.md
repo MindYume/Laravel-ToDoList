@@ -13,6 +13,6 @@ git clone https://github.com/MindYume/Laravel-ToDoList.git
 ![](images/settings.png)
 
 3 Создайте базу данных из миграций
-```bash
+```bash 
 php artisan migrate
 ```
