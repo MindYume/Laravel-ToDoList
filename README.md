@@ -3,4 +3,6 @@
 
 ## Устнаовка
 1 Скачайте проект
-"git clone https://github.com/MindYume/Laravel-ToDoList.git"
+```bash
+git clone https://github.com/MindYume/Laravel-ToDoList.git
+```
