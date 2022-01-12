@@ -1,5 +1,4 @@
-# Laravel-ToDoList
-Список дел на Laravel
+# ToDoList на Laravel
 ![](images/interface.png)
 
 ## Устнаовка
