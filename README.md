@@ -14,5 +14,5 @@ php artisan migrate
 
 
 ## Запуск программы
-1 Через Open Server
-    sdf
+### Через Open Server
+dsfsfd
