@@ -6,3 +6,11 @@
 ```bash
 git clone https://github.com/MindYume/Laravel-ToDoList.git
 ```
+2 Создайте базу данных из миграций
+```bash
+php artisan migrate
+```
+
+## Запуск программы
+1 Через Open Server
+    sdf
