@@ -2,7 +2,7 @@
 Список дел на Laravel
 
 ## Устнаовка
-1 Скачайте и установите Open Server
+### 1 Скачайте и установите Open Server
 https://ospanel.io/
 
 Зайдипе в папку \openserver\domains и скачайте проект
