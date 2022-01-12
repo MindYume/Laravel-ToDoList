@@ -11,6 +11,8 @@ git clone https://github.com/MindYume/Laravel-ToDoList.git
 php artisan migrate
 ```
 
+
+
 ## Запуск программы
 1 Через Open Server
     sdf
