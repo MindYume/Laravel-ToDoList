@@ -17,7 +17,7 @@ git clone https://github.com/MindYume/Laravel-ToDoList.git
 ![](images/domain3.png)
 
 ### 5 Создайте базу данных из миграций. 
-Для этого запуствите консоль через Open Server, зайдите в папку с проектами и запустите следующую команду
+Для этого запуствите консоль через Open Server, зайдите в папку с проектам и запустите следующую команду
 ```bash 
 php artisan migrate
 ```
