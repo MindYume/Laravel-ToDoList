@@ -1,5 +1,6 @@
 # Laravel-ToDoList
 Список дел на Laravel
+![](images/interface.png)
 
 ## Устнаовка
 ### 1 Скачайте и установите Open Server
@@ -22,3 +23,4 @@ git clone https://github.com/MindYume/Laravel-ToDoList.git
 php artisan migrate
 ```
 ![](images/migration.png)
+### 6 Теперь вы пожете запустить Open Server и в любом браузере ввести название домена, котрое вы дали проекту, и посмотреть на результат.
