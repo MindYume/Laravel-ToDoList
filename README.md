@@ -5,17 +5,14 @@
 1 Скачайте и установите Open Server
 https://ospanel.io/
 
-1 Скачайте проект
+Зайдипе в папку \openserver\domains и скачайте проект
 ```bash
 git clone https://github.com/MindYume/Laravel-ToDoList.git
 ```
-2 Создайте базу данных из миграций
+2 Запустите Open Server, и зайдите в настройки
+![](images/settings.png)
+
+3 Создайте базу данных из миграций
 ```bash
 php artisan migrate
 ```
-
-
-
-## Запуск программы
-### Через Open Server
-1 Скачайте и установите Open Server
