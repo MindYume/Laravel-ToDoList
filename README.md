@@ -9,7 +9,7 @@ https://ospanel.io/
 ```bash
 git clone https://github.com/MindYume/Laravel-ToDoList.git
 ```
-2 Запустите Open Server, и зайдите в настройки
+2 Запустите Open Server, и зайдите в настройки\n
 ![](images/settings.png)
 
 3 Создайте базу данных из миграций
